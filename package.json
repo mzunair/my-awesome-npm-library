@@ -1,6 +1,6 @@
 {
   "name": "my-awesome-npm-library",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple but awesome npm package for formatting dates",
   "main": "index.js",
   "repository": {
@@ -10,7 +10,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["date", "formatter", "utility", "npm package"],
+  "keywords": [
+    "date",
+    "formatter",
+    "utility",
+    "npm package"
+  ],
   "author": "Muhammad Zunair <zunair.me@gmail.com>",
   "license": "ISC",
   "dependencies": {
